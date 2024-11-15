@@ -13,9 +13,13 @@ Download:
  3. tritonus_share-0.3.6.jar (<https://ja.osdn.net/projects/sfnet_mp3pl/downloads/lib/tritonus_share-0.3.6.jar/>)
 
 Place the files at lib/
+
  e.g.
+ 
   lib/hjl1.0.1.jar
+  
   lib/mp3spi1.9.5.jar
+  
   lib/tritonus_share-0.3.6.jar
 
 ## Usage
